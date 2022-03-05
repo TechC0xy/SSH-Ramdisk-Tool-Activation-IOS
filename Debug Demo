@@ -1,1 +1,14 @@
 
+import Foundation
+
+fileprivate func emptyData(withSize: Int) -> Data {
+    return Data(repeating: 0x41, count: withSize)
+}
+
+class PwnException: USBException {
+    
+}
+
+let DFU_DNLOAD:    UInt8 = 1
+let DFU_GETSTATUS: UInt8 = 3
+let DFU_ABORT:     UInt8 = 4
