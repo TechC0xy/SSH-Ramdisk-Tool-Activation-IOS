@@ -1,7 +1,11 @@
 # SSH-Ramdisk-Tool-Activation-IOS
 Shell script will be finished and uploaded to public repository as soon as possible.
 The fork of the warehouse can activate the mobile phone under SSH channel, and adapt to ios6-ios15.4. According to the automatic selection strategy of the system, the current version may not be stable, we will continue to develop and update.
-Applicable to Checkm8 attack devices.
+Applicable to Checkm8，c0xy attack devices.
+# Support Apple Devices：
+IPhone3GS-IPhone13
+# Info：
+A12-a15 attack tool is mature, can go to my Github home page for extraction.
 # System supported by Shell scripts：
 1.GNU/Linux Debian...
 2.Unix/MacOS
